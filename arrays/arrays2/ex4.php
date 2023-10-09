@@ -13,5 +13,9 @@ for($i =1; $i<$n; $i++){
     }
 }
 var_dump($num);
+//Exercise 7
+echo "<br><h2>Exercise 7</h2> Min * Max = " . min($num) * max($num) ;
+//Exercise 9
+echo "<br><h2>Exercise 7</h2> Array Sum = " . array_sum($num);
 
 ?>
